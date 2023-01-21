@@ -599,7 +599,7 @@ body.open .hamburger .bar:last-child {
 }
 
     .showcase-image .person {
-        background-image: url(/Pics/home-light.png);
+        background-image: url(../Pics/home-light.png);
         height: 612px;
         background-repeat: no-repeat;
         position: absolute;
@@ -1280,7 +1280,7 @@ body.open .hamburger .bar:last-child {
     transform: translateX(calc(-50% + 120px));
     border-bottom-left-radius: 60px;
     z-index: -1;
-    background-image: url(/Pics/test-logo.png);
+    background-image: url(../Pics/test-logo.png);
     /*background-image: linear-gradient(55deg, var(--main-color-2) 20%, var(--main-color-1) 20%);*/
 }
 
