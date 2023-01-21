@@ -1628,7 +1628,7 @@ footer {
 
     .showcase-area .container {
         grid-template-columns: 1fr;
-        height: revert;
+        /* height: revert;*/
         justify-items: center;
         row-gap: 4rem;
     }
