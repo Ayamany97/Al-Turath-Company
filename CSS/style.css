@@ -137,7 +137,7 @@ body {
         }
 
         body.dark .showcase-image .person {
-            background-image: url(Al-Turath-Company/Pics/home-dark-1.png);
+            background-image: url(/Pics/home-dark-1.png);
             width: 412px;
             height: 612px;
             background-repeat: no-repeat;
